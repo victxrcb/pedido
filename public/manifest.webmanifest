@@ -1,0 +1,21 @@
+{
+  "name": "Pedido de Namoro",
+  "short_name": "Namoro",
+  "description": "Um aplicativo romântico para um pedido de namoro inesquecível.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#100814",
+  "theme_color": "#190518",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
